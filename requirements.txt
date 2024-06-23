@@ -1,0 +1,15 @@
+streamlit
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+wordcloud
+plotly
+jieba
+pickle
+wordcloud
+underthesea
+BytesIO
+squarify
+re
