@@ -12,4 +12,3 @@ wordcloud
 underthesea
 BytesIO
 squarify
-re
